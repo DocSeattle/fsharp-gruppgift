@@ -1,0 +1,13 @@
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\bin\Debug\net8.0\GruppUppgift.DataContext.SqlServer.deps.json
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\bin\Debug\net8.0\GruppUppgift.DataContext.SqlServer.dll
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\bin\Debug\net8.0\GruppUppgift.DataContext.SqlServer.pdb
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.sourcelink.json
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.dll
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\refint\GruppUppgift.DataContext.SqlServer.dll
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\GruppUppgift.DataContext.SqlServer.pdb
+C:\Users\rasse\source\repos\fsharp-gruppgift\GruppUppgift.DataContext.SqlServer\obj\Debug\net8.0\ref\GruppUppgift.DataContext.SqlServer.dll
