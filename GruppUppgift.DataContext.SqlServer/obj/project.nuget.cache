@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w9mPG9KnG/svcUB/rhaPbMk7DVrd0hvjoGEAMja/raIU18w1H0VBpRXxlgwoTBcqOh1Vbl4XZQmkDWnQQKnvtw==",
+  "dgSpecHash": "URllGJWcbR8NGNq5vigOc8vNJ7I3cAs8+byFet+ZGJ/CYQ/aAfAzUTtpVNTzWyaouIV8zWEllcWfbOJ/qQ3I5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
+  "projectFilePath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\GruppUppgift.DataContext.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rasse\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\rasse\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
