@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\seatt\\.nuget\\packages\\": {}
+    "C:\\Users\\carin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Skolkaos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
+      "projectUniqueName": "C:\\Users\\carin\\Source\\Repos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
       "projectName": "gruppgift",
-      "projectPath": "D:\\Skolkaos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
-      "packagesPath": "C:\\Users\\seatt\\.nuget\\packages\\",
-      "outputPath": "D:\\Skolkaos\\fsharp-gruppgift\\gruppgift\\obj\\",
+      "projectPath": "C:\\Users\\carin\\Source\\Repos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
+      "packagesPath": "C:\\Users\\carin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carin\\Source\\Repos\\fsharp-gruppgift\\gruppgift\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\seatt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
