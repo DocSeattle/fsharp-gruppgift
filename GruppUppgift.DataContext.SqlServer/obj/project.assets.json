@@ -198,19 +198,6 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
-      },
-      "GruppUppgift.DataContext.SqlServer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.2"
-        },
-        "compile": {
-          "bin/placeholder/GruppUppgift.DataContext.SqlServer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GruppUppgift.DataContext.SqlServer.dll": {}
-        }
       }
     }
   },
@@ -563,16 +550,10 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "GruppUppgift.DataContext.SqlServer/1.0.0": {
-      "type": "project",
-      "path": "../GruppUppgift.DataContext.SqlServer/GruppUppgift.DataContext.SqlServer.csproj",
-      "msbuildProject": "../GruppUppgift.DataContext.SqlServer/GruppUppgift.DataContext.SqlServer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "GruppUppgift.DataContext.SqlServer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.2"
     ]
   },
@@ -583,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
-      "projectName": "gruppgift",
-      "projectPath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\gruppgift\\gruppgift.csproj",
+      "projectUniqueName": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\GruppUppgift.DataContext.SqlServer.csproj",
+      "projectName": "GruppUppgift.DataContext.SqlServer",
+      "projectPath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\GruppUppgift.DataContext.SqlServer.csproj",
       "packagesPath": "C:\\Users\\rasse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\gruppgift\\obj\\",
+      "outputPath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -607,11 +588,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\GruppUppgift.DataContext.SqlServer.csproj": {
-              "projectPath": "C:\\Users\\rasse\\source\\repos\\fsharp-gruppgift\\GruppUppgift.DataContext.SqlServer\\GruppUppgift.DataContext.SqlServer.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -641,9 +618,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

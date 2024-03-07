@@ -3,20 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gruppgift", "gruppgift\gruppgift.csproj", "{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gruppgift", "gruppgift\gruppgift.csproj", "{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GruppUppgift.DataContext.SqlServer", "GruppUppgift.DataContext.SqlServer\GruppUppgift.DataContext.SqlServer.csproj", "{149F2B21-0B09-4F8B-B187-4C04B523B4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9389D6B-D05C-41B9-8214-44DBD7CFCEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149F2B21-0B09-4F8B-B187-4C04B523B4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149F2B21-0B09-4F8B-B187-4C04B523B4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149F2B21-0B09-4F8B-B187-4C04B523B4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149F2B21-0B09-4F8B-B187-4C04B523B4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
