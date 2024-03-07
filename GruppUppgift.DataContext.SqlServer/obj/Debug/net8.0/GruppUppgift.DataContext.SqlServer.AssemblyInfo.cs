@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GruppUppgift.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0a3d7fb88138fabbd56be794d7f44764d62243e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32fb775437cb59ff786acaadd2dccc1c49653d61")]
 [assembly: System.Reflection.AssemblyProductAttribute("GruppUppgift.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GruppUppgift.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
