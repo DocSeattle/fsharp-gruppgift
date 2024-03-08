@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gruppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bd5ed7c9b26a723fac4de0c99c9af10ad4e0b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c75a31c5d9dc472a1d38fabf8b83c11cc8ea7e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("gruppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gruppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
